@@ -1,0 +1,31 @@
+/*
+	Programmer Name: 43
+	CSS file to style the mainpage
+*/
+
+body {
+	font-family: 'Mulish', sans-serif;
+	font-size: 20px;
+	background-color: #D2DAFF;
+	color: black;
+}
+
+/* This is the heading box at top of page*/
+.heading-box {
+    	width: 100%; 
+    	height: 80px; 
+   	background-color: #B1B2FF; 
+    	display: flex;
+    	justify-content: center; 
+	align-items: center;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.heading-box h1 {
+	color: white; 
+	margin: 0; 
+	font-family: 'Old Standard TT', serif;
+	font-weight: bold;
+	font-size: 28px;
+}
+
